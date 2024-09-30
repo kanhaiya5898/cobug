@@ -1,0 +1,5 @@
+<!DOCTYPE html>
+<head>News headlines </head>
+<title>sample</title>
+<body bgcolor="skyblue">
+<h1>news aggregates</h1>
